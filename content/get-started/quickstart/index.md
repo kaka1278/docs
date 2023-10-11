@@ -1,4 +1,4 @@
----
+[![Azure Production - Build and Deploy](https://github.com/github/docs/actions/workflows/azure-prod-build-deploy.yml/badge.svg)](https://github.com/github/docs/actions/workflows/azure-prod-build-deploy.yml)---
 title: Quickstart
 intro: 'Get started using {% data variables.product.product_name %} to manage Git repositories and collaborate with others.'
 versions:
